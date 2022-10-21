@@ -1,0 +1,3 @@
+This website was created in July 2022.
+This website server is a mobile phone, which can access the internet through intranet penetration.
+Port: 8080, intranet host: 127.0.0.1, Internet access mode: mobile data, WEB tool: KSWEB
