@@ -1,3 +1,5 @@
 body{
-	background-size: auto 2023px;
+	background-size: auto 1523px;
+        background-repeat:background-repeat;
+        background-attachment:fixed;
 }
